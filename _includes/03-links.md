@@ -1,1 +1,1 @@
-https://github.com/chirag-singhal
+[Github](https://github.com/chirag-singhal)
