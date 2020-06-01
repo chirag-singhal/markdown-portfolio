@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am currently a **sophomore** year *computer science engineering* student in **Birla Institute of Technology and Science Pilani, Pilani Campus**.
